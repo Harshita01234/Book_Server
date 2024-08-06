@@ -1,0 +1,39 @@
+[
+    {
+        "_id": { "$oid" : "6458f2660370b02a293447b0"},
+        "title": "The Great Gatsby",
+        "thumbnail": "the-great-gatsby.jpg",
+        "slug": "the-great-gatsby",
+        "description": "First published in 1925",
+        "stars": "5",
+        "category": ["romance", "science"]
+
+    },
+
+
+    {
+        "_id": { "$oid" : "6458f2c50370b02a2934d5fc"},
+        "title": "The Hobbit",
+        "thumbnail": "the-hobbit.jpg",
+        "slug": "the-hobbit",
+        "description": "The book is critical introduction to J>R>R tolkiens the hobbit",
+        "stars": "5",
+        "category": ["crime", "food"]
+
+    },
+
+    {
+        "_id": { "$oid" : "648ada707a15f23fa4ba9aa5"},
+        "title": "Demon Copperhead",
+        "thumbnail": "demon-copperhead.jpg",
+        "slug": "demon-copperhead",
+        "description": "A masterful recasting of Davi Copperfield",
+        "stars": "3",
+        "category": ["crime", "romance"]
+
+    } 
+    
+
+
+
+]
